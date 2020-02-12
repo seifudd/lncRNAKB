@@ -17,4 +17,4 @@ strand.
 </ol>
 
    
-![Integration_Procdure](/09-Figures/Figure2.png)
+![Integration_Procdure](/09-Figures/Figure2.png){:height="50%" width="50%"}
