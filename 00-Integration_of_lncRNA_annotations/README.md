@@ -17,4 +17,4 @@ strand.
 </ol>
 
    
-![lncRNAKB](09-Figures/Figure2.png)
+![Integration_Procdure](09-Figures/Figure2.png)
