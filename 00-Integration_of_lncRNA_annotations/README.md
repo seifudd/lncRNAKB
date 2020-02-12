@@ -1,5 +1,3 @@
-
-
 <b>Scripts to systematically combine frequently used lncRNA annotation resources (GTFs/GFFs) using a cumulative stepwise intersection method</b>. 
 
 <ol type="1">
