@@ -10,7 +10,7 @@ VCF files were processed using the following steps with a combination of PLINK v
   <li>Selected "FILTER == 'PASS'" variants.</li>
   <li>Exclude variants with minor allele frequency (MAF) <5%.</li>
   <li>Update the coordinates of single nucleotide polymorphisms (SNPs) using the UCSC liftOver tool from hg19 to hg38 (latest genome build).</li> 
-  <li>Change the SNPs IDs to dbSNP50 rsID using dbSNP Build 151.</li>
+  <li>Change the SNPs IDs to dbSNP rsID using dbSNP Build 151.</li>
   <li>Convert to bed, bim and fam format.</li>
   </ol>
 
