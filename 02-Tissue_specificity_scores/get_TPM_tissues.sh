@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# TPM gene expression matrices by tissue can be downloaded from: http://psychiatry.som.jhmi.edu/lncrnakb/bodymap.php
+
 data_dir="/data/NHLBI_BCB/Fayaz/21-GTEx-data/05-featurecounts-lncRNAKb-v6"
 #output_dir="/data/NHLBI_BCB/Abhilash/05_Tissue_Specificity/data"
 
