@@ -1,3 +1,3 @@
 
 
-The following steps were taken to analyze the gene expression data from GTEx Release v7 project
+<b>Scripts to proces the whole genome sequece (WGS) genotype data from GTEx Release v7 project</b>
