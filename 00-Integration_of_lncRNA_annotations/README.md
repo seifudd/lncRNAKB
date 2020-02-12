@@ -16,5 +16,16 @@ strand.
 </ul>
 </ol>
 
-   
+Figure 2 illustrates the cumulative stepwise intersection method for two annotations as an example, D1 (CHESS) in blue and D2 (FANTOM-lncRNA only) in green. 
+
+<ol type="1">
+<li>For each gene entry in D1 (top blue panel), we kept genes from D2 (green panel) that had full overlap and were also within D1’s gene boundary. The resulting intersection is shown in orange.</li> 
+<li>D2’s gene that had partial overlap with D1’s gene (marked using a red X) were discarded as we did not want to re-define gene boundaries in the reference annotation.</li>
+<li>For genes that intersected, the transcript records (shown as smaller bars connected by lines to represent exons and introns, respectively) from D1 and D2 were compared.</li>
+<li>Similarly, to the gene intersection, transcript entries whose start and end were within the gene boundaries were included.</li> 
+<li>Several transcripts (marked using a red X) that fell outside the gene boundary and were probably incorrectly assigned to genes were removed in this process.</li> 
+<li>In addition, if a transcript in D2 had partial or no overlap with transcripts in D1, we incorporated that transcript (marked using red checks) including all the exons to the gene record accordingly.</li> 
+<li>For genes with no overlap in D1, we added all the transcripts and corresponding exons to the merged annotation as a lncRNA entry (marked using red checks).</li>
+</ol>
+
 ![Integration_Procdure](/09-Figures/Figure2.png)
