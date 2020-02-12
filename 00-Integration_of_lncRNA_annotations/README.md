@@ -1,6 +1,6 @@
 
 
-<b>Scripts to systematically combine frequently used lncRNA annotation resources using a cumulative stepwise intersection method</b>. 
+<b>Scripts to systematically combine frequently used lncRNA annotation resources (GTFs/GFFs) using a cumulative stepwise intersection method</b>. 
 
 <ol type="1">
 <li>The gene transfer format (GTF) or gene feature format (GFF) from all six annotations (links in Table 1 in the manuscript) were downloaded.</li>
