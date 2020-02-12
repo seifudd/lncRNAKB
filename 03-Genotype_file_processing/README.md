@@ -13,3 +13,8 @@ VCF files were processed using the following steps with a combination of PLINK v
   <li>Change the SNPs IDs to dbSNP50 rsID using dbSNP Build 151.</li>
   <li>Convert to bed, bim and fam format.</li>
   </ol>
+
+The VCF file was subset by tissue and the MAF recalculated to exclude variants with MAF <5%. 
+
+After converting to ped and map format, we ran principal component analysis (PCA) on each tissue to get a set of genotype
+covariates using eigensoft v6.1.4. 
