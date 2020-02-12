@@ -1,3 +1,2 @@
 
-
-The following steps were taken to analyze the gene expression data from GTEx Release v7 project
+<b>Scripts to analyze conservation scores between protein coding genes (PCGs) and lncRNAs</b>
