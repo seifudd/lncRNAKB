@@ -1,6 +1,6 @@
 
 
-<b>Scripts to analyze lncRNA-GWAS trait association using Summary Mendelian Randomization (SMR)</b>
+#### Scripts to analyze lncRNA-GWAS trait association using Summary Mendelian Randomization (SMR)
 
 <ol type="1">
   <li>SMR and HEIDI (Heterogeneity in dependent instruments) methods implemented in the SMR package were used to test the association between lncRNA gene expression and traits tested by means of colocalization of summary GWAS and cis-eQTL signals.   </li> 
