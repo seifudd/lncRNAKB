@@ -12,7 +12,7 @@
       <li>Filter.</li>
         <ul>
           <li>The filter module flags and removes transcripts overlapping (in sense) exons of the reference annotation, specifically the protein-coding exons.</li>
-          <li>GENCODEv2920 GTF file was used as the reference annotation to get an estimate of the number of transcripts from lncRNAKB overlapping with “protein_coding” transcripts.</li>
+          <li>GENCODEv29 GTF file was used as the reference annotation to get an estimate of the number of transcripts from lncRNAKB overlapping with “protein_coding” transcripts.</li>
           <li>The minimal fraction out of the candidate lncRNAs size to be considered for overlap to be excluded was arbitrarily set as 0.75 (>75%overlap) to retain many lncRNAs transcripts.</li>
           </li>Transcripts <200 base pairs (bp) long were filtered out and monoexonic transcripts were retained.</li>
         </ul>
