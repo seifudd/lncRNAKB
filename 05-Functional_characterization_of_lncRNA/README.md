@@ -1,6 +1,6 @@
 
 
-<b>Scripts to perform functional characterization of lncRNA using a network-based approach (WGCNA)</b>
+#### Scripts to perform functional characterization of lncRNA using a network-based approach (WGCNA)
 
 <ol type="1">
 <li>Weighted gene co-expression network analysis (WGCNA) approach as implemented in the Co-Expression Modules identification Tool (CEMiTool) package in R was used to identify modules of lncRNA-mRNA clusters that are co-expressed and therefore likely work in concert to carry out various biological functions.</li>
