@@ -2,7 +2,7 @@
 
 #### Scripts to proces the whole genome sequece (WGS) genotype data from GTEx Release v7 project</b>
 
-VCF files were processed using the following steps with a combination of PLINK v1.9 vcftools v0.1.15 and bcftools  v1.9
+#### VCF files were processed using the following steps with a combination of PLINK v1.9 vcftools v0.1.15 and bcftools  v1.9
 
 <ol type="1">
 <li>Remove indels.</li>
