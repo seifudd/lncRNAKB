@@ -1,6 +1,6 @@
 
 
-<b>Scripts to analyze the coding potential and positional classification (overlap with mRNA) of lncRNAKB GTF annotation</b>
+#### Scripts to analyze the coding potential and positional classification (overlap with mRNA) of lncRNAKB GTF annotation
 
 <ol type="1">
   <li>FlExible Extraction of LncRNAs (FEELnc-https://github.com/tderrien/FEELnc) was used to classify/annotate and calculate
