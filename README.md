@@ -1,6 +1,6 @@
 # lncRNAKB
 #### Scripts for analyzing data displayed and deposited on the long non-coding RNA knowledgebase (lncRNAKB)
 
-![Compenents of lncRNAKB](/09-Figures/Figure1.png)
+![Compenents of lncRNAKB](/09-Figures/Figure1.png){:height="1000px" width="900px"}.
 
 LncRNAKB is an invaluable resource to understand the biological importance of long non-coding RNA (lncRNA) in tissue-specificity and disease association. It contains 77,199 human lncRNA (224,286 transcripts) constructed by systematically integrating widely used lncRNA annotations. It includes a compendium of expression patterns, derived from analysis of RNA-seq data in thousands of samples across 31 solid human normal tissues (GTEx). Thousands of co-expression modules identified via network analysis and pathway enrichment to delineate lncRNA function are also accessible. Millions of expression quantitative trait loci (cis-eQTL) computed using whole genome sequence genotype data (GTEx) can be downloaded at lncRNAKB that also includes tissue-specificity, phylogenetic conservation and coding potential scores. Tissue-specific lncRNA-trait associations encompassing 323 GWAS (UK Biobank) are also provided. LncRNAKB is accessible at http://www.lncrnakb.org/, and the data are freely available through Open Science Framework (http://osf.io/ru4d2).
