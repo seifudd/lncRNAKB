@@ -1,6 +1,6 @@
 
 
-<b>Scripts to calculate tissue-specificity metrics from gene expression data</b>
+#### Scripts to calculate tissue-specificity metrics from gene expression data
 <ol type="1">
   <li>R Code adopted from PMID: 26891983 (provided in supplementary materials).</li>
   <li>Calculated two tissue-specificity metrics (Tau and Preferential Expression Measure (PEM)) using the normalized TPM expression values by gene across tissues.</li>

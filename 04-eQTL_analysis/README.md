@@ -1,6 +1,6 @@
 
 
-<b>Scripts to to perform expression quantitative trait loci (eQTL) analysis</b>
+#### Scripts to to perform expression quantitative trait loci (eQTL) analysis
 
 <ol type="1">
 <li>Genes were first filtered based on TPM to include genes with TPM >0.50 in at least 20% of the samples.</li> 

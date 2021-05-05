@@ -1,4 +1,4 @@
-<b>Scripts to systematically combine frequently used lncRNA annotation resources (GTFs/GFFs) using a cumulative stepwise intersection method</b>. 
+#### Scripts to systematically combine frequently used lncRNA annotation resources (GTFs/GFFs) using a cumulative stepwise intersection method
 
 <ol type="1">
   <li>The gene transfer format (GTF) or gene feature format (GFF) from all six annotations (links in Table 1 in the manuscript) were downloaded.</li>
@@ -14,7 +14,7 @@ strand.
   </ul>
 </ol>
 
-Figure 2 illustrates the cumulative stepwise intersection method for two annotations as an example, D1 (CHESS) in blue and D2 (FANTOM-lncRNA only) in green. 
+#### Figure 2 illustrates the cumulative stepwise intersection method for two annotations as an example, D1 (CHESS) in blue and D2 (FANTOM-lncRNA only) in green. 
 
 <ol type="1">
   <li>For each gene entry in D1 (top blue panel), we kept genes from D2 (green panel) that had full overlap and were also within D1’s gene boundary. The resulting intersection is shown in orange.</li> 

@@ -1,6 +1,6 @@
 
 
-<b>Scripts to analyze the gene expression data from GTEx Release v7 project</b>
+#### Scripts to analyze the gene expression data from GTEx Release v7 project
 <ol type="1">
   <li>Quality control of paired-end reads were assessed using FastQC tools.</li>
   <li>Adapter sequences and low-quality bases were trimmed using Trimmomatic.</li>
